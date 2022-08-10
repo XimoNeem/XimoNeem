@@ -1,6 +1,4 @@
-![](index.html)
-
-<!-- <h1 align="center">Hi there, I'm Michael</a> 
+<h1 align="center">Hi there, I'm Michael</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Programmer and game designer from Russia</h3>
 
@@ -15,5 +13,5 @@
 <h2 align="center"></a> 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) -->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
