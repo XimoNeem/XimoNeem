@@ -1,12 +1,33 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Figtree&size=25&pause=1000&color=46F733&background=1A1B4B00&vCenter=true&width=435&lines=Hi+there+++++(%E3%83%BB_%E3%83%BB)%E3%83%8E)](https://git.io/typing-svg)
 
-Hi 👋, I'm Michael
+## I'm Michael ![](https://komarev.com/ghpvc/?username=ximoneem&label=Profile%20views&color=37ff00&style=plastic)
 Unity developer, game designer and 3D artist from Russia
 
-<h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">Unity developer, game designer and 3D artist from Russia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ximoneem&label=Profile%20views&color=37ff00&style=plastic" alt="ximoneem" /> </p>
+
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ximoneem&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ximoneem&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ximoneem&theme=solarized_dark)
+
+
+## 📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/XimoNeem/RoadAccidentIllustrator">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/XimoNeem/JellyFight">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ximoneem" alt="ximoneem" /></a> </p>
 
