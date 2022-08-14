@@ -8,9 +8,9 @@ Hi there, I'm Michael ![](https://komarev.com/ghpvc/?username=ximoneem&color=bri
 
 Unity developer, game designer and 3D artist from Russia
 
+![stats](https://github.com/XimoNeem/stats/blob/master/github_stats.svg)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ximoneem&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 ```
 ✅ My skills
