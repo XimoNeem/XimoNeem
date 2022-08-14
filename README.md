@@ -4,9 +4,13 @@
 ✅ About me
 ```
 
+Hi there, I'm Michael ![](https://komarev.com/ghpvc/?username=ximoneem&color=brightgreen&style=flat-square)
+
+Unity developer, game designer and 3D artist from Russia
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ximoneem&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
-Unity developer, game designer and 3D artist from Russia ![](https://komarev.com/ghpvc/?username=ximoneem&label=Profile%20views&color=37ff00&style=plastic)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ximoneem&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ximoneem&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ximoneem&theme=solarized_dark)
