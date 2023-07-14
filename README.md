@@ -44,7 +44,7 @@ Unity developer, game designer and 3D artist
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 ```
-✅ Connect with me
+✅ Contacts
 ```
 
 [`Discord`](https://discordapp.com/users/398558280236007427/)
